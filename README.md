@@ -1,5 +1,5 @@
 # PRODIGY_ML_01
-This is my Prodigy Inftech intern's first task
+This is my Prodigy Infotech intern's first task
 # House Price Prediction using Linear Regression
 
 This project implements a **Linear Regression** model to predict house prices based on features such as **square footage**, **number of bedrooms**, and **number of bathrooms**. The dataset includes other relevant features like `sqft_living`, `bedrooms`, `bathrooms`, etc., but we focus on the key predictors for this model.
